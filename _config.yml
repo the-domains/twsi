@@ -6,9 +6,9 @@ color:
   saturation: 0.2331318692304194
   rhythmicContrast: 0.359567730454728
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: TWSI
