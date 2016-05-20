@@ -1,14 +1,26 @@
-layout_spectrum: 0.34229512396268547
-typography_spectrum: 0.42045279196463525
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4204527919646353
 color:
-  brandStrength: 0.6395140727981925
-  lightness: 0.5009551523253322
   saturation: 0.2331318692304194
+  brandStrength: 0.6395140727981925
   rhythmicContrast: 0.359567730454728
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  lightness: 0.5009551523253322
+layout_spectrum: 1
 name: TWSI
